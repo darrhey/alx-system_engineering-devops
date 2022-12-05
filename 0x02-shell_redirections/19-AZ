@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Accountability" | tr "Ac" "Ze" 
+echo $ | tr "Ac" "Ze" 
