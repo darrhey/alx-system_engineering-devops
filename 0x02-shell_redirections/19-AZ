@@ -1,2 +1,3 @@
 #!/bin/bash
-echo $ | tr "Ac" "Ze" 
+read filename
+echo $filename | tr "Ac" "Ze" 
