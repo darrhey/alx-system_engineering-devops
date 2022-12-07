@@ -1,2 +1,2 @@
 #!/bin/bash
-read filename ; echo $filename | tr "Ac" "Ze" 
+tr Ac Ze
